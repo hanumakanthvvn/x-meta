@@ -1,0 +1,4 @@
+---
+blurb: "Write a program that to find matching strings between the two provided files. It should be a case insensitive exact match of the names in the two files. (Duration 1 hour)."
+source: "The Matching strings between two files."
+source_url: ""
